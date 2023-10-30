@@ -26,31 +26,6 @@
 
 ## 丨功能
 
-<details><summary>sr每日 - 命令: srmr</summary><p>
-<img src="https://s2.loli.net/2023/04/30/DYgCOkMy8Xe4mwc.png"/> 
-</p></details>
-
-<details><summary>sr每月统计 - 命令: srzj</summary><p>
-<img src="https://s2.loli.net/2023/05/06/wuOfKsc7qWvCzVJ.png"/> 
-</p></details>
-
-<details><summary>sr个人信息 - 命令: sruid</summary><p>
-<img src="https://s2.loli.net/2023/05/03/wurJpXvQKPa2AS7.png"/> 
-</p></details>
-
-<details><summary>查询面板 - 命令: sr强制刷新 & sr查询希儿</summary><p>
-<img src="https://s2.loli.net/2023/05/14/xgmuBvAP5UVLsn4.jpg"/> 
-</p></details>
-
-<details><summary>查询深渊 - 命令: sr查询深渊 & sr深渊</summary><p>
-<img src="https://s2.loli.net/2023/05/19/54OPsvHibgeu9YB.jpg"/> 
-</p></details>
-
-<details><summary>查询模拟宇宙 - 命令: sr查询模拟宇宙</summary><p>
-<img src="https://s2.loli.net/2023/06/08/eCnmu74rWKPf9Fp.png"/> 
-</p></details>
-
-以及自动签到 & 体力推送 & WIKI & 攻略图等..
 
 ## 丨其他
 
